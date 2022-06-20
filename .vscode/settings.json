@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Exercicio05/src",
+        "Exercicio04/src",
+        "Exercicio03/src",
+        "Exercicio02/src",
+        "Exercicio01/src",
+        "Exercicio06/src"
+    ]
+}
